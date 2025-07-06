@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishaal</h1>
+<h1 align="center">Hi 👋, I'm Vishaal A</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Pre-final+year+Computer+Science+student;Flutter+%7C+React.js+%7C+AI-ML+enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
@@ -68,9 +68,9 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VISHAAL%20A-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishaala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VISHAAL%20A-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishaal-a-8b8127290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYDxXOyIxQ4yEpD6wH%2BEqfw%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-vishaala591%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaala591@gmail.com)
 
 ---
 
-⭐️ *From Vishaal*
+⭐️ *From Vishaal A*
