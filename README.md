@@ -70,9 +70,9 @@ Developed a **DDoS Detection and Prediction System** using:
 ### 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishy-591&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishy-591&theme=tokyonight" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishy-591&layout=compact&theme=tokyonight" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishy-18&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishy-18&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishy-18&layout=compact&theme=tokyonight" alt="languages"/>
 </p>
 
 ---
